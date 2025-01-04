@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AsignaciónUno</string>
+    <string name="score_label">Puntaje: %d</string>
+    <string name="button1_text">Botón 1</string>
+    <string name="button2_text">Botón 2</string>
+    <string name="button3_text">Botón 3</string>
+    <string name="secondary_title">Diseño Secundario</string>
+    <string name="back_button_text">Volver</string>
+    <string name="win_message">¡Felicidades! ¡Ganaste!</string>
+</resources>

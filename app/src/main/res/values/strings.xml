@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AssignmentOne</string>
+    <string name="score_label">Score: %d</string> <!-- Updated to include a format specifier for the score -->
+    <string name="button1_text">Button 1</string>
+    <string name="button2_text">Button 2</string>
+    <string name="button3_text">Button 3</string>
+    <string name="secondary_title">Secondary Layout</string>
+    <string name="back_button_text">Back</string>
+    <string name="win_message">Congratulations! You win!</string> <!-- Added win message -->
+</resources>
